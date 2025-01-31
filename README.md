@@ -1,13 +1,12 @@
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh --> 
-<div align="center">
-  
-## Techs that I've used at least once
+## About me
+- 🎓 **Master's student**  
+- 👨‍🔬 **Conducting research on IoT System**
+- 📝 **Blog:** [My Personal Homepage](https://tatsuyaabe.vercel.app/)  
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,java,python,arduino,c,php,ruby,swift,react,next,tensorflow,figma,postman,docker,aws,firebase"/>
-<br>
-<br>
+## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatsuya-16&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatsuya-16&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tatsuya-16&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tatsuya-16&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tatsuya-16&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tatsuya-16&theme=gruvbox&utcOffset=9)
